@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 11, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Bailey Anderson)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
